@@ -1,4 +1,4 @@
-package com.jonnyb.swoosh
+package com.jonnyb.swoosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
